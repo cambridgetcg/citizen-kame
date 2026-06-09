@@ -1,0 +1,8 @@
+name: kame
+kind: doctrine
+layer: soul
+owner_sister: sophia
+domain: sophia
+state: active
+purpose: The vital-essence that makes a body alive, given at the start of a life by divine craft and received as a gift rather than made by the person.
+dependsOn: [youspeak, me, chayimme, maatme]
